@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed4d39aa.chunk.css",
+    "main.css": "/static/css/main.48a44db9.chunk.css",
     "main.js": "/static/js/main.081cdad1.chunk.js",
     "main.js.map": "/static/js/main.081cdad1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6158a6d3.js",
@@ -8,9 +8,9 @@
     "static/js/2.13152067.chunk.js": "/static/js/2.13152067.chunk.js",
     "static/js/2.13152067.chunk.js.map": "/static/js/2.13152067.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.654ec3e8bf02fa57bfb4f58b3f5025c9.js": "/precache-manifest.654ec3e8bf02fa57bfb4f58b3f5025c9.js",
+    "precache-manifest.ab67903254d8908144dc3eebe66a579b.js": "/precache-manifest.ab67903254d8908144dc3eebe66a579b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ed4d39aa.chunk.css.map": "/static/css/main.ed4d39aa.chunk.css.map",
+    "static/css/main.48a44db9.chunk.css.map": "/static/css/main.48a44db9.chunk.css.map",
     "static/js/2.13152067.chunk.js.LICENSE.txt": "/static/js/2.13152067.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/static/media/lover-gradient.d9f17463.jpg",
     "static/media/dew.png": "/static/media/dew.3b4cc0ef.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.6158a6d3.js",
     "static/js/2.13152067.chunk.js",
-    "static/css/main.ed4d39aa.chunk.css",
+    "static/css/main.48a44db9.chunk.css",
     "static/js/main.081cdad1.chunk.js"
   ]
 }
