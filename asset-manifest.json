@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed4d39aa.chunk.css",
+    "main.js": "/static/js/main.081cdad1.chunk.js",
+    "main.js.map": "/static/js/main.081cdad1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6158a6d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6158a6d3.js.map",
+    "static/js/2.13152067.chunk.js": "/static/js/2.13152067.chunk.js",
+    "static/js/2.13152067.chunk.js.map": "/static/js/2.13152067.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.654ec3e8bf02fa57bfb4f58b3f5025c9.js": "/precache-manifest.654ec3e8bf02fa57bfb4f58b3f5025c9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ed4d39aa.chunk.css.map": "/static/css/main.ed4d39aa.chunk.css.map",
+    "static/js/2.13152067.chunk.js.LICENSE.txt": "/static/js/2.13152067.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/static/media/lover-gradient.d9f17463.jpg",
+    "static/media/dew.png": "/static/media/dew.3b4cc0ef.png",
+    "static/media/headshot.png": "/static/media/headshot.798a9333.png",
+    "static/media/muralARts.gif": "/static/media/muralARts.7da3fa8c.gif",
+    "static/media/resume.pdf": "/static/media/resume.238afc80.pdf",
+    "static/media/sprites.svg": "/static/media/sprites.38c35936.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6158a6d3.js",
+    "static/js/2.13152067.chunk.js",
+    "static/css/main.ed4d39aa.chunk.css",
+    "static/js/main.081cdad1.chunk.js"
+  ]
+}
