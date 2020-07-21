@@ -1,6 +1,7 @@
 import React from 'react'
 import './styles.scss'
 import { scroll, openInNewTab } from '../../utilities/misc'
+import resume from '../../assets/content/resume.pdf'
 
 const toggleNav = () => {
     const toggle = document.getElementById('navi-toggle')
@@ -56,7 +57,7 @@ const generateNavItem = (num, label, section) => {
 const generateResumeLink = () => {
 
     const handleClick = () => {
-        openInNewTab('http://africau.edu/images/default/sample.pdf')
+        openInNewTab(resume)
         toggleNav()
     }
 
