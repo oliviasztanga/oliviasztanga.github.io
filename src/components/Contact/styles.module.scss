@@ -1,0 +1,16 @@
+@import '../../assets/stylesheets/application.scss';
+
+.contact {
+    grid-column: indent-start / indent-end;
+    background-color: $color-offwhite;
+    padding: 5rem;
+}
+
+.form {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}

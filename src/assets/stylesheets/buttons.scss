@@ -1,0 +1,34 @@
+.btn-scroll {
+    background: transparent;
+    border: none;
+    bottom: 2rem;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    z-index: 200;
+
+
+    cursor: pointer;
+
+    & > svg {
+        fill: $color-offblack;
+        height: 4rem;
+        transition: all .2s;
+        width: 4rem;
+    }
+
+    &:hover > svg {
+        animation: point-down .6s;
+        fill: rgba($color-offblack, .5);
+    }
+
+    &:active,
+    &:focus {
+        outline: 0;
+    }
+
+    &:active > svg {
+        transform: translateY(3px);
+        fill: rgba($color-offblack, .5);
+    }
+}
