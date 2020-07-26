@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e512751f.chunk.css",
-    "main.js": "/static/js/main.081cdad1.chunk.js",
-    "main.js.map": "/static/js/main.081cdad1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6158a6d3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6158a6d3.js.map",
-    "static/js/2.13152067.chunk.js": "/static/js/2.13152067.chunk.js",
-    "static/js/2.13152067.chunk.js.map": "/static/js/2.13152067.chunk.js.map",
+    "main.css": "/static/css/main.35cfee36.chunk.css",
+    "main.js": "/static/js/main.a7af223c.chunk.js",
+    "main.js.map": "/static/js/main.a7af223c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.806222af.js",
+    "runtime-main.js.map": "/static/js/runtime-main.806222af.js.map",
+    "static/js/2.df5ca462.chunk.js": "/static/js/2.df5ca462.chunk.js",
+    "static/js/2.df5ca462.chunk.js.map": "/static/js/2.df5ca462.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9a4c6554795ab0671ffdb0b317db5191.js": "/precache-manifest.9a4c6554795ab0671ffdb0b317db5191.js",
+    "precache-manifest.ce2c4bab7648d2b5ec6f15de73d5c207.js": "/precache-manifest.ce2c4bab7648d2b5ec6f15de73d5c207.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e512751f.chunk.css.map": "/static/css/main.e512751f.chunk.css.map",
-    "static/js/2.13152067.chunk.js.LICENSE.txt": "/static/js/2.13152067.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/static/media/lover-gradient.d9f17463.jpg",
-    "static/media/dew.png": "/static/media/dew.3b4cc0ef.png",
+    "static/css/main.35cfee36.chunk.css.map": "/static/css/main.35cfee36.chunk.css.map",
+    "static/js/2.df5ca462.chunk.js.LICENSE.txt": "/static/js/2.df5ca462.chunk.js.LICENSE.txt",
+    "static/media/application.scss": "/static/media/lover-gradient.d9f17463.jpg",
     "static/media/headshot.png": "/static/media/headshot.798a9333.png",
-    "static/media/muralARts.gif": "/static/media/muralARts.7da3fa8c.gif",
     "static/media/resume.pdf": "/static/media/resume.238afc80.pdf",
-    "static/media/sprites.svg": "/static/media/sprites.38c35936.svg"
+    "static/media/sprites.svg": "/static/media/sprites.bfbaca55.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6158a6d3.js",
-    "static/js/2.13152067.chunk.js",
-    "static/css/main.e512751f.chunk.css",
-    "static/js/main.081cdad1.chunk.js"
+    "static/js/runtime-main.806222af.js",
+    "static/js/2.df5ca462.chunk.js",
+    "static/css/main.35cfee36.chunk.css",
+    "static/js/main.a7af223c.chunk.js"
   ]
 }
